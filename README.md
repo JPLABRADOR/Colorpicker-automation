@@ -3,15 +3,15 @@ Automation testing for the Colorpicker application built with the Electron frame
 
 Colorpicker application website: https://github.com/Toinane/colorpicker
 
+#### Testing Focus:
+Valid and invalid input data is used to test the Colorpicker's color sliders functionality
+
 #### Tested using:
 * System: Windows 10
 * Colorpicker: 2.0.3
 * Node.js: 14.10.1
 * Spectron(Uses ChromeDriver and WebdriverIO): Version 9.0.0
 * Mocha: 8.1.3
-
-#### Section of the application being tested:
-1) The color sliders and their number inputs
 
 NOTE: For given versions of Electron you must depend on a very specific version range of Spectron. Colorpicker 2.0.3 was created using Electron version 7.1.7, so Spectron 9.0.0 must be used to test this version of the application. For more info, see the version mapping table between Spectron versions and Electron versions: https://github.com/electron-userland/spectron#version-map
 
