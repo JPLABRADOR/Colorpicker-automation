@@ -17,7 +17,7 @@ NOTE: For given versions of Electron you must depend on a very specific version 
 
 
 #### Instructions:
-Install the Colorpicker application (version 2.0.3): https://github.com/Toinane/colorpicker/releases
+Install the Colorpicker application (version 2.0.3): https://github.com/Toinane/colorpicker/releases \
 Direct Link: https://github.com/Toinane/colorpicker/releases/download/2.0.3/colorpicker_setup_2.0.3.exe
 
 Install NodeJS (includes npm): https://nodejs.org/en/download/
