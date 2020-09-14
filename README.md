@@ -4,7 +4,7 @@ Automation testing for the Colorpicker application built with the Electron frame
 Colorpicker application website: https://github.com/Toinane/colorpicker
 
 #### Testing Focus:
-Valid and invalid input data is used to test the Colorpicker's color sliders functionality
+Valid and invalid input data is used to test Colorpicker's color sliders functionality.
 
 #### Tested using:
 * System: Windows 10
