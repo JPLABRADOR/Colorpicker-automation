@@ -4,7 +4,6 @@ var slider = require('../pageObjects/sliderPage')
 var sliderData = require('../testAssets/sliderArray')
 var page = {}
 var titleExists
-var expectedTitle = 'Colorpicker'
 
 describe('Colorpicker Slider Tests', function () {
     this.timeout(10000)
@@ -26,6 +25,7 @@ describe('Colorpicker Slider Tests', function () {
     })
 
     it('The Window Title Was Found', function () {
+        const expectedTitle = 'Colorpicker'
         this.app.client.title().then(function (actual) {
             titleExists = expectedTitle == actual.value
             assert.strictEqual(actual, expectedTitle)
