@@ -1,5 +1,5 @@
 # Colorpicker-automation
-Automation testing for the Colorpicker application built with the Electron framework. Automation created using Spectron and Mocha.
+Automated testing for the Colorpicker application built with the Electron framework. Automation created using Spectron and Mocha.
 
 Colorpicker application website: https://github.com/Toinane/colorpicker
 
